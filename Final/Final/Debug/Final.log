@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\matthew\desktop\school stuff\year 3 (2018-2019)\computer science\final\final\adventure.h(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\desktop\school stuff\year 3 (2018-2019)\computer science\final\final\main.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\desktop\school stuff\year 3 (2018-2019)\computer science\final\final\main.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\desktop\school stuff\year 3 (2018-2019)\computer science\final\final\main.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\desktop\school stuff\year 3 (2018-2019)\computer science\final\final\main.cpp(188): warning C4018: '<': signed/unsigned mismatch
+c:\users\matthew\desktop\school stuff\year 3 (2018-2019)\computer science\final\final\main.cpp(226): warning C4018: '<': signed/unsigned mismatch
+  Final.vcxproj -> C:\Users\Matthew\Desktop\School Stuff\Year 3 (2018-2019)\Computer Science\Final\Debug\Final.exe
+  Final.vcxproj -> C:\Users\Matthew\Desktop\School Stuff\Year 3 (2018-2019)\Computer Science\Final\Debug\Final.pdb (Partial PDB)
